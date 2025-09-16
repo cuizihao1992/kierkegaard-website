@@ -1,5 +1,5 @@
 import React from 'react'
-import { ExternalLink, BookOpen, Users, Globe, Award, ArrowRight } from 'lucide-react'
+import { BookOpen, Globe, ArrowRight } from 'lucide-react'
 
 const Influence: React.FC = () => {
   const philosophicalInfluence = [

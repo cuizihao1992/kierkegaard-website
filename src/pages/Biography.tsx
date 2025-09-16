@@ -1,5 +1,5 @@
 import React from 'react'
-import { Calendar, MapPin, GraduationCap, Heart, BookOpen, Users } from 'lucide-react'
+import { Calendar, GraduationCap, Heart, BookOpen } from 'lucide-react'
 
 const Biography: React.FC = () => {
   const timeline = [

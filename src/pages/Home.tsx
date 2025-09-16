@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import { ArrowRight, BookOpen, User, Lightbulb, Library, Quote, ExternalLink, Info } from 'lucide-react'
+import { ArrowRight, BookOpen, User, Lightbulb, Library, Quote, ExternalLink } from 'lucide-react'
 
 const Home: React.FC = () => {
   const features = [
